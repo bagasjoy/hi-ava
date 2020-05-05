@@ -1,10 +1,10 @@
 // prettier-ignore
 export default [
-    { author: "avrill.v", quotes: "Whatever happens, keep breathing" },
-    { author: "antjedtta_", quotes: "Mwaaaaaaaaaaaaa" },
-    { author: "standinshd", quotes: "Hey! I Love You!" },
-    { author: "standinshd", quotes: "Semangat SBMPTN-nya!!" },
-    { author: "standinshd", quotes: "Semoga bisa diterima di PTN ya!" },
-    { author: "standinshd", quotes: "I love you." },
-    { author: "standinshd", quotes: "I love you pisan" },
+    { author: "Joy", quotes: "Aku Sayang Fatiha" },
+    { author: "Joy", quotes: "Aku Sayang Fatihakuuu" },
+    { author: "Joy", quotes: "Hi! I Love You Fatihaaaaa!" },
+    { author: "Joy", quotes: "Fatiha Semangat ya SBMPTN-nya!!" },
+    { author: "Joy", quotes: "Semoga Fatiha bisa diterima di PTN ya!! Aamiin" },
+    { author: "Joy", quotes: "I love you." },
+    { author: "Joy", quotes: "I love you pisan" },
 ];
